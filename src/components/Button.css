@@ -1,0 +1,27 @@
+
+
+input{
+	border-radius: 30px;
+	background-color: aqua;
+	width: 55px;
+	height: 45px;
+	margin-top: 5px;
+	font-weight: bold;
+	font-size: 15px;
+}
+input:active {
+    background-color: rgb(81, 238, 136);
+}
+
+.reset {
+    background-color: rgba(236, 25, 25, 0.767);
+    width: 110px;
+}
+
+.reset:active {
+    background-color: rgba(241, 15, 15, 0.744);
+}
+
+.numbers {
+    background-color: rgb(104, 148, 238);
+}
